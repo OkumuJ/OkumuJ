@@ -2,7 +2,7 @@
 
 
 ### 💫 About Me:
-🌍 Based in Nairobi, Kenya<br>🌱 I’m currently learning Software Engineering, Data Science <br>💻 Background in Data Science and Data Visualization<br>📊 Data enthusiast and aspiring Cybersecurity professional
+🌍 Based in Nairobi, Kenya<br>🌱 I’m currently learning Software Engineering, Data Science <br>💻 Background in Machine Learning, Data Science and Data Visualization<br>📊 Data enthusiast and aspiring Cybersecurity professional
 
 ### 🌟 What I Do:
 
